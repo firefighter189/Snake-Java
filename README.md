@@ -1,4 +1,5 @@
 The Main Class is the start point of the program. 
+
 You have to paste this files (not the SnakeTest.jar) into your eclipse or IntelliJ
 src folder.
 
